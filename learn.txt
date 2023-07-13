@@ -17,3 +17,8 @@ Noopur: 1. Learned github and git
 Navya: 1. Revised python and all the pandas,numpy libraries
        2. Studied a yt playlist on Opencv python tutorial and practiced on vs code
        3.Explored some datasets related to the project on github
+Rajnandini: 1. learned git and github
+            2. revised python
+            3. learned numpy, pandas and matplotlib
+            4. explored kaggle and learning to use google colab        
+            
